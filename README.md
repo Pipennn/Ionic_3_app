@@ -1,3 +1,25 @@
+# Ionic_3_app
+New game viewer based on Ionic 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
 
 ## How to use this template
